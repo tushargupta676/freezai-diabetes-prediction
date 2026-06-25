@@ -4,6 +4,12 @@
 
 This project was developed as part of the **FreezAI Kaggle-style Machine Learning Competition** organized by Geek Room. The objective was to predict whether an individual is likely to have diabetes based on health-related attributes provided in the dataset.
 
+## Competition
+
+This project was developed as part of the FreezAI Kaggle-style Machine Learning Competition organized by Geek Room.
+
+Competition Link: [FreezAI Competition](https://www.kaggle.com/competitions/freez-ai)
+
 ## Problem Statement
 
 Predict the **Outcome** for each individual in the test dataset.
