@@ -37,7 +37,6 @@ The project follows a standard Machine Learning workflow:
 - NumPy
 - Pandas
 - Matplotlib
-- Seaborn
 - Scikit-Learn
 
 ## Model Used
@@ -82,4 +81,3 @@ freezai-diabetes-prediction/
 
 B.Tech Information Technology (2024–2028)
 
-Maharaja Surajmal Institute of Technology (MSIT)
